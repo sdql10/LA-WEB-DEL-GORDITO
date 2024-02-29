@@ -1,0 +1,29 @@
+.titulo{
+    text-align: center;
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Imagenes/unnamed.jpg);
+    background-position: bottom;
+    background-position: center;
+    font-family: sans-serif;
+}
+.centro{
+    text-align: center;
+}
+
+
+.honk-letra{
+    text-align: center;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+      font-size: x-large;
+  }
